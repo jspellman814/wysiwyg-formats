@@ -25,6 +25,7 @@ function my_mce_before_init_insert_formats( $init_array ) {
 
 	$style_formats = array(
 		// Each array child is a format with it's own settings
+		// Add new elements/classes below
 		array(
 			'title' => 'H2 Block Title',
 			'block' => 'h2',
