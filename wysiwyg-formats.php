@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WYSIWYG Formats
-Description: Creates an "Formats" dropdown in the WYSIWYG toolbar for site-specific body elements.
+Description: Creates "Formats" dropdown in the WYSIWYG toolbar for site-specific body elements.
 Version:     1.0
 Author:      John Spellman
 */
